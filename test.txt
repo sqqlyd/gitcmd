@@ -1,4 +1,17 @@
 
+
+wisdom@wisdom-PC MINGW64 /c/projects/GitHub/gitcmd (master)
+$  git log --graph --pretty=oneline --abbrev-commit
+*   75aecd6 fix conflict
+|\
+| * 2941737 Update test.txt
+* | 478e0b6 add git cmd
+|/
+* 1de966f fix iss001 on b_iss001
+* d7a3f45 first change on master
+
+
+
 git fetch origin master:tmp
 //在本地新建一个temp分支,并将远程origim@库的master分支代码下载到本地temp分支
 
